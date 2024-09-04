@@ -1,6 +1,8 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm JayaKumar</h1>
-<h3 align="center">Hey I'm Jk a B.E-CSE graduate and a budding full-stack developer at the start of his career. I am skilled in both front-end and back-end development, with a focus on building efficient and user-friendly web applications. Driven by a passion for technology and innovation, I am dedicated to honing my skills and contributing to impactful projects.</h3>
+<h3 align="center">Hello! I’m Jayakumar, a dedicated full-stack developer at Why Global Service, passionate about creating intuitive and engaging web applications. At Why Global Service, I work on live projects, focusing on UI, UX, frontend development, and app development. Utilizing technologies such as React, Tailwind CSS, Node.js, and MongoDB.
+<h3>I build responsive and visually appealing web applications.Driven by the challenge of transforming complex ideas into simple, elegant designs, I am committed to continuous learning and growth in the dynamic field of web development. I welcome to collaborating with cross-functional teams.</h3>
+
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jayakumar-FullStackDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="Jayakumar" /> </p>
